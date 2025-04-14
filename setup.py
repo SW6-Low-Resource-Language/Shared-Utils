@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='shared-resources',
+    name='shared_utils',
     version='0.1.0',
     author='Lasse Drongesen',
     author_email='Lassemgp@gmail.com',
